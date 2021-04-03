@@ -64,11 +64,6 @@ No Need To Ask Wifi Password, HACK it..! This Cyber Security Tool, Will Hack For
 2) sudo git clone https://github.com/ankit0183/Wifi-Hacking
 3) cd Wifi-Hacking/
 4) sudo python3 Wifi-Hacking.py
-```
-
-## Creator
-
-(Ankit Kanojiya) Hey, Dont Forget To say Thanks me :smile:
 
 
 # SCREENSHOT
@@ -86,42 +81,6 @@ No Need To Ask Wifi Password, HACK it..! This Cyber Security Tool, Will Hack For
 
 
 
-
-# Feel Free To Contact Me.
-
-
-
-
-
-- [Whats App](https://wa.me/+919768367597)
- 
-
-### Whats App Me: +919768367597   - [Click Hear](https://wa.me/+919768367597)
-
-### - [Instagram](https://www.instagram.com/ankit_kanojiya57/)
-
-
-# Disclaimer 
-
-
-Wifi-Hacking tool not responsible for misuse and for illegal purposes. Use it only for Pentest or Educational purpose :smile: !!!
-
-
-
-> Pull requests are always welcome.. :)  
-
-
-
-
-
-###### Donation
-
-If this CyberSecurity tool has been useful for you, feel free to thank me by buying me a coffee. :)
- 
- 
- 
- 
-### Happy Hacking ( Privacy & Security No Such Things Exists in digital World, We Can Hack Everything )
 
 
 
