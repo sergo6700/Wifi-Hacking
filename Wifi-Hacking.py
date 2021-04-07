@@ -16,7 +16,7 @@ def intro():
 ██║███╗██║██║██╔══╝  ██║╚════╝██║     ██╔══██╗██╔══██║██║     ██╔═██╗ ██╔══╝  ██╔══██╗
 ╚███╔███╔╝██║██║     ██║      ╚██████╗██║  ██║██║  ██║╚██████╗██║  ██╗███████╗██║  ██║
  ╚══╝╚══╝ ╚═╝╚═╝     ╚═╝       ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
-                                                        Coded By BlackHatHacker-Ankit
+                                                        Coded By MrJoker
 ---------------------------------------------------------------------------------------                                                                     
 (1)Start monitor mode       
 (2)Stop monitor mode                        
@@ -183,12 +183,10 @@ def intro():
         cmd = os.system("clear")
         print("""
 Hi.
-My Name is 4nk17, A Ethical Hacker,Bug Bounty Hunter,Currently Working as Cyber Security Researcher.
+My Name is MrJoker, A Ethical Hacker,Bug Bounty Hunter,Currently Working as Cyber Security Researcher.
 you can find on Instagram
 
-https://www.instagram.com/ankit_kanojiya57/
-
-Contack me +919768367597
+https://www.instagram.com/grigoryan9889/
 
 Feel Free to Contact,
 
